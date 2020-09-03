@@ -1,0 +1,36 @@
+body {
+	background-color: #4e546e;
+	text-align: center;
+}
+
+h1 {
+  font-family: 'Leckerli One', cursive;
+	text-shadow: 0 2px rgba(0,0,0,.5);
+	color: #99ffcc;
+	font-size: 75px;
+}
+
+h3 {
+	font-family: 'Leckerli One', cursive;
+	color: #99ffcc;
+	font-size: 30px;
+}
+
+img {
+	width: 70%;
+}
+
+.flexbox {
+	margin: 0 auto 0 auto;
+	width: 70%;
+
+	display: flex;
+	flex-direction: row;
+	text-align: center;
+}
+
+.flexbox-element {
+	margin-bottom: 2em;
+	text-align: center;
+	width: 50%;
+}
